@@ -1,2 +1,3 @@
 *.class
-/venv/
+/venv
+/cmake-build-debug
